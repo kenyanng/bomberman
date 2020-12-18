@@ -1,0 +1,36 @@
+1 13 31
+###############################
+#p    l**  *2  *   *  * * *   #
+# # # #*# # #*#*# # # #*#*#*# #
+#bfs*     ***  *   1  *   * * #
+# # # # # #*# # #*#*# # # # #*#
+#f          **  *  *     3    #
+# # # # # # # # # #*# #*# # # #
+#*  *    3 *  * 4    *        #
+# # # # #*# # # #*#*# # # # # #
+#*    **  *       *   2       #
+# #*# # # # # # #*# # # # # # #
+#      1    *   *  *   4      #
+###############################
+
+Meta data:
+(Number or Level) (Rows) (Columns)
+
+Info Tiles:
+# - Wall
+* - Brick
+x - Portal
+
+Mobs:
+p - Player
+1 - Balloom
+2 - Oneal
+3 - Doll
+4 - Minvo
+
+Powerups:
+b - Powerup Bombs
+f - Powerup Flames
+s - Powerup Speed
+l - Powerup Detonator
+r - Powerup Brick Pass
